@@ -2,7 +2,7 @@ body {
       margin: 0;
       padding: 0;
       direction: rtl;
-      background-image: url("/123.jpg"); /* رابط الصورة */
+      background-image: url("../123.jpg"); /* رابط الصورة */
       background-size: cover;       /* لتغطية كامل الشاشة */
       background-repeat: no-repeat; /* لمنع التكرار */
     }
